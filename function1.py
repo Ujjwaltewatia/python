@@ -3,3 +3,4 @@ def hello(greeting='Hello',name='world'):
 
 
 hello(name='Ujjwal',greeting='Hello')
+print("End of function")
